@@ -1,3 +1,6 @@
+[liango2/apartment-finder: A Slack bot that helps you find an apartment.](https://github.com/liango2/apartment-finder)
+
+
 Apartment finder
 -------------------
 
